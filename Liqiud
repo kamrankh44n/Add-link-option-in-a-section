@@ -1,2 +1,8 @@
  <a href="{{ blocks.settings.image_link }}"> 
 Add this above the image or collection etc so the option will appear in customzation.
+{
+           "type": "url",
+           "id": "image_link",
+           "label": "image link"
+         },
+         add this to schema as well.
