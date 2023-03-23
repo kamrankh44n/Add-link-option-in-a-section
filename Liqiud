@@ -1,0 +1,2 @@
+ <a href="{{ blocks.settings.image_link }}"> 
+Add this above the image or collection etc so the option will appear in customzation.
